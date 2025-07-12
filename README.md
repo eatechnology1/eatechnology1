@@ -1,65 +1,67 @@
 # EA Technology 🚀
-### Innovación en Robótica, Diseño 3D y Soluciones Tecnológicas
 
-![EA Technology Logo](https://i0.wp.com/ea-tech.site/wp-content/uploads/2024/04/New-Logo-hori.png?w=517&ssl=1)
+### Tecnología, Innovación y Prototipado Inteligente
 
-**EA Technology** es una empresa emergente fundada por **Alexander Calderón Leal**, Ingeniero Mecatrónico especializado en robótica avanzada, impresión 3D, y programación. Nos enfocamos en ofrecer soluciones tecnológicas integrales a través de la implementación de tecnologías innovadoras y personalizadas para cada cliente.
+![EA Technology Logo](https://i0.wp.com/ea-tech.site/wp-content/uploads/2024/04/New-Logo-hori.png?w=517\&ssl=1)
+
+**EA Technology** es una empresa de ingeniería tecnológica liderada por **Alexander Calderón Leal**, Ingeniero Mecatrónico especializado en robótica, automatización y diseño de soluciones integrales. Combinamos hardware, software y diseño para desarrollar productos y sistemas adaptados a las necesidades de cada cliente.
 
 ---
 
 ## ¿Quiénes somos?
 
-En **EA Technology**, ofrecemos servicios en **robótica**, **diseño 3D**, **consultoría tecnológica** y **desarrollo de software**. Nuestra misión es proporcionar soluciones de alta calidad que impulsen proyectos en diversos sectores industriales y comerciales, utilizando las últimas herramientas y enfoques tecnológicos.
+En **EA Technology** desarrollamos soluciones aplicadas en las áreas de **robótica**, **automatización industrial**, **IoT**, **diseño 3D** y **desarrollo de software embebido**. Nos enfocamos en transformar ideas tecnológicas en soluciones funcionales y escalables para la industria, la educación y el emprendimiento.
 
 ---
 
-## Servicios que ofrecemos 📊
+## Servicios Principales 📊
 
-- **Desarrollo de Robótica y Automatización**: Soluciones personalizadas en robótica móvil y automatización industrial.
-- **Impresión y Diseño 3D**: Diseño y creación de prototipos funcionales mediante tecnología de fabricación aditiva.
-- **Programación y Controladores**: Desarrollo de software en C, Python y Marlin para impresoras 3D y motores paso a paso.
-- **Consultoría en Tecnología**: Asesoramiento e implementación de sistemas avanzados de seguridad y automatización.
-- **Mantenimiento y Soporte Técnico**: Reparación de equipos electrónicos y servicios de TI.
+* **Robótica y Automatización Industrial**: Integración de sistemas con PLC, sensores, controladores, SCADA y protocolos industriales.
+* **Desarrollo de Prototipos Electrónicos**: Diseño con microcontroladores (ESP32, PSoC, Arduino, Raspberry Pi), interfaces, PCBs, sensores y actuadores.
+* **Diseño y Fabricación 3D**: Modelado CAD (SolidWorks, Fusion 360) e impresión 3D funcional para prototipado rápido.
+* **Soluciones en IoT y Domótica**: Integración con Home Assistant, dispositivos inteligentes, monitoreo remoto y automatización residencial.
+* **Desarrollo de Software**: Aplicaciones embebidas, scripts de control, automatización de procesos y backend técnico.
+* **Consultoría y Capacitación**: Mentorías, formación técnica y soporte en proyectos de innovación tecnológica.
 
 ---
 
 ## Tecnologías y Herramientas 🔧
 
-En **EA Technology**, trabajamos con una amplia gama de tecnologías y herramientas para entregar soluciones eficaces:
-
-- **Lenguajes de programación**: Python, C, Marlin
-- **Robótica**: ROS 2, Arduino, Raspberry Pi
-- **Diseño 3D**: SolidWorks, Fusion 360
-- **Control de versiones**: Git, GitHub
-
----
-
-## Sobre Alexander Calderón Leal 🎓
-
-Soy un Ingeniero Mecatrónico apasionado por la tecnología y la innovación. Desde el inicio de **EA Technology**, he trabajado en el desarrollo de proyectos que combinan la robótica y la impresión 3D con soluciones personalizadas para cada cliente. Mi enfoque es brindar soluciones eficientes y avanzadas, utilizando mi experiencia en **automatización**, **diseño mecánico** y **desarrollo de software**.
+* **Lenguajes**: Python, C/C++, Marlin, HTML/CSS/JS
+* **Sistemas Embebidos**: ESP32, Arduino, Raspberry Pi, PSoC
+* **Plataformas**: ROS 2, Node-RED, Home Assistant
+* **Diseño CAD**: SolidWorks, Fusion 360, FreeCAD
+* **Control de versiones**: Git, GitHub
 
 ---
 
-## Redes Sociales y Contacto 📲
+## Sobre el Fundador 🎓
 
-¿Tienes un proyecto en mente? ¡Estamos aquí para ayudarte! Puedes ponerte en contacto con nosotros a través de los siguientes canales:
+**Alexander Calderón Leal** es Ingeniero Mecatrónico, especialista en robótica avanzada, con experiencia en integración de sistemas inteligentes, desarrollo de prototipos funcionales y capacitación tecnológica. Fundador de EA Technology, promueve la aplicación de tecnología de forma accesible, ágil y profesional.
+
+---
+
+## Conecta con Nosotros 📞  📲
+
+> ✨ Estamos listos para colaborar en tus ideas, diseños o proyectos tecnológicos. Escríbenos o síguenos en nuestras redes:
+
+## Redes Sociales 
 
 - **Correo electrónico**: [eatechnologycolombia@gmail.com](mailto:eatechnologycolombia@gmail.com) / [alexcalderon@ea-tech.site](mailto:alexcalderon@ea-tech.site)
-- **Telegram**: [@ea_technology](https://t.me/ea_technology)
-- **TikTok**: [ea_technology](https://www.tiktok.com/@ea_technology)
-- **Instagram**: [ea.technology](https://www.instagram.com/ea.technology)
-- **Facebook**: [EA Technology](https://www.facebook.com/EA.Technology1)
-- **YouTube**: [ea.technology](https://www.youtube.com/@ea.technology)
-- **GitHub**: [EA Technology GitHub](https://github.com/eatechnology1)
+* **Telegram**: [@ea\_technology](https://t.me/ea_technology)
+* **TikTok**: [ea\_technology](https://www.tiktok.com/@ea_technology)
+* **Instagram**: [ea.technology](https://www.instagram.com/ea.technology)
+* **Facebook**: [EA Technology](https://www.facebook.com/EA.Technology1)
+* **YouTube**: [ea.technology](https://www.youtube.com/@ea.technology)
+* **GitHub**: [EA Technology GitHub](https://github.com/eatechnology1)
 
----
 
-## Colabora con nosotros 🤝
+## ¡Colaboremos! 🤝
 
-Si estás interesado en colaborar o necesitas asesoría tecnológica para tu proyecto, revisa nuestros repositorios y no dudes en contactarnos. **EA Technology** siempre está abierto a nuevas ideas y desafíos en el mundo de la tecnología y la innovación.
+Explora nuestros repositorios, clona nuestros proyectos o propone mejoras. Si tienes una idea o reto tecnológico, estamos listos para co-desarrollarlo.
 
 ---
 
 ## Licencia 📝
 
-Este proyecto está licenciado bajo la **Licencia MIT**. Si deseas reutilizar o colaborar en los proyectos de EA Technology, revisa los términos en [LICENSE](LICENSE).
+Este proyecto está licenciado bajo la **Licencia MIT**. Consulta los términos en el archivo [LICENSE](LICENSE).
