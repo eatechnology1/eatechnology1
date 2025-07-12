@@ -2,7 +2,7 @@
 
 ### Tecnología, Innovación y Prototipado Inteligente
 
-![EA Technology Logo]([https://i0.wp.com/ea-tech.site/wp-content/uploads/2024/04/New-Logo-hori.png?w=517\&ssl=1](https://eatechnology.com.co/wp-content/uploads/2025/07/New-Logo-hori-1080-1-1024x380.png))
+![EA Technology Logo](https://eatechnology.com.co/wp-content/uploads/2025/07/New-Logo-hori-1080-1-1024x380.png)
 
 **EA Technology** es una empresa de ingeniería tecnológica liderada por **Alexander Calderón Leal**, Ingeniero Mecatrónico especializado en robótica, automatización y diseño de soluciones integrales. Combinamos hardware, software y diseño para desarrollar productos y sistemas adaptados a las necesidades de cada cliente.
 
