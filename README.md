@@ -47,7 +47,7 @@ En **EA Technology** desarrollamos soluciones aplicadas en las áreas de **robó
 
 ## Redes Sociales 
 
-- **Correo electrónico**: [eatechnologycolombia@gmail.com](mailto:eatechnologycolombia@gmail.com) / [info@eatechnology.com.co](mailto:info@eatechnology.com.co)
+- **Correo electrónico**: [info@eatechnology.com.co](mailto:info@eatechnology.com.co) / [eatechnologycolombia@gmail.com](mailto:eatechnologycolombia@gmail.com)
 * **Telegram**: [@ea\_technology](https://t.me/ea_technology)
 * **TikTok**: [ea\_technology](https://www.tiktok.com/@ea_technology)
 * **Instagram**: [ea.technology](https://www.instagram.com/ea.technology)
